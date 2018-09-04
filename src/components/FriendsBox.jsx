@@ -5,8 +5,10 @@ import FriendsButton from "./FriendsButton";
 function FriendsBox (){
   let myStyledFriendsBox = {
     backgroundColor: "bisque",
-    maxWidth: "200px",
-    maxHeight: "400px"
+    margin: "3%",
+    width: "30%",
+    display: "inline-block",
+    verticleAlign: "top"
   }
   return(
     <div style={myStyledFriendsBox}>
