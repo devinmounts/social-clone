@@ -4,10 +4,10 @@ import ProfileInfo from './ProfileInfo';
 
 function ProfileBox (){
   let boxStyle = {
-    width: "30%",
+    width: "25%",
     display: "inline-block",
     verticalAlign: "top",
-    margin: "3%",
+    margin: "1.5%",
     border: "2px solid grey"
   }
   return(
